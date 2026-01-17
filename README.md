@@ -18,8 +18,8 @@
 
 1. 下载或克隆此项目到本地
    ```bash
-   git clone <repository-url>
-   cd gpt_navigation_bar
+   git clone https://github.com/FengZio/GPT_navigation_bar
+   cd GPT_navigation_bar
    ```
 
 2. 打开浏览器扩展管理页面
@@ -30,7 +30,7 @@
 
 4. 点击"加载已解压的扩展程序"
 
-5. 选择项目文件夹 `e:\gpt_navigation_bar`
+5. 选择项目文件夹 `e:\GPT_navigation_bar`
 
 6. 插件安装完成！
 
@@ -45,6 +45,20 @@
 4. 点击导航条中的任意节点，页面会平滑滚动到对应消息
 
 5. 当前查看的消息会高亮显示
+
+## 🎨 界面示例
+
+### ChatGPT 中的效果
+![ChatGPT 示例](image/ChatGPT.png)
+*在 ChatGPT 中使用插件，右侧显示消息导航条，点击节点即可快速定位*
+
+### Gemini 中的效果
+![Gemini 示例](image/Gemini.png)
+*在 Gemini 中使用，毛玻璃效果与页面完美融合*
+
+### Claude 中的效果
+![Claude 示例](image/claude.png)
+*在 Claude 中同样支持完整的导航功能*
 
 ## 🛠️ 技术架构
 
